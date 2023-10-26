@@ -11,13 +11,13 @@
 ext {
 
 	// https://mvnrepository.com/artifact/org.asciidoctor/asciidoctorj
-    asciidoctorj_version = "2.5.3"
+    asciidoctorj_version = "2.5.10"
     
     // https://mvnrepository.com/artifact/org.asciidoctor/asciidoctorj-pdf
-    asciidoctorj_pdf_version = "1.6.2"
+    asciidoctorj_pdf_version = "2.3.9"
     
     // https://mvnrepository.com/artifact/org.asciidoctor/asciidoctorj-pdf
-    asciidoctorj_diagram_version = "2.2.1"
+    asciidoctorj_diagram_version = "2.2.13"
 
 	library = [
 		/* testing */		
