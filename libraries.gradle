@@ -17,7 +17,7 @@ ext {
     asciidoctorj_pdf_version = "2.3.9"
     
     // https://mvnrepository.com/artifact/org.asciidoctor/asciidoctorj-pdf
-    asciidoctorj_diagram_version = "2.2.13"
+    asciidoctorj_diagram_version = "2.2.11"
 
 	library = [
 		/* testing */		
